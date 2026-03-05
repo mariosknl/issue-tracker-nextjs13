@@ -17,7 +17,7 @@
     "@types/node": "24.11.0",
     "@types/react": "18.3.28",
     "@types/react-dom": "18.3.7",
-    "autoprefixer": "10.4.24",
+    "autoprefixer": "10.4.27",
     "axios": "^1.5.0",
     "classnames": "^2.3.2",
     "delay": "^7.0.0",
